@@ -1,0 +1,16 @@
+C:\Repos\Formation\ShiFumi5\ShiFumi5\bin\Debug\net5.0\ShiFumi5.exe
+C:\Repos\Formation\ShiFumi5\ShiFumi5\bin\Debug\net5.0\ShiFumi5.deps.json
+C:\Repos\Formation\ShiFumi5\ShiFumi5\bin\Debug\net5.0\ShiFumi5.runtimeconfig.json
+C:\Repos\Formation\ShiFumi5\ShiFumi5\bin\Debug\net5.0\ShiFumi5.runtimeconfig.dev.json
+C:\Repos\Formation\ShiFumi5\ShiFumi5\bin\Debug\net5.0\ShiFumi5.dll
+C:\Repos\Formation\ShiFumi5\ShiFumi5\bin\Debug\net5.0\ShiFumi5.pdb
+C:\Repos\Formation\ShiFumi5\ShiFumi5\obj\Debug\net5.0\ShiFumi5.csproj.AssemblyReference.cache
+C:\Repos\Formation\ShiFumi5\ShiFumi5\obj\Debug\net5.0\ShiFumi5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Formation\ShiFumi5\ShiFumi5\obj\Debug\net5.0\ShiFumi5.AssemblyInfoInputs.cache
+C:\Repos\Formation\ShiFumi5\ShiFumi5\obj\Debug\net5.0\ShiFumi5.AssemblyInfo.cs
+C:\Repos\Formation\ShiFumi5\ShiFumi5\obj\Debug\net5.0\ShiFumi5.csproj.CoreCompileInputs.cache
+C:\Repos\Formation\ShiFumi5\ShiFumi5\obj\Debug\net5.0\ShiFumi5.dll
+C:\Repos\Formation\ShiFumi5\ShiFumi5\obj\Debug\net5.0\refint\ShiFumi5.dll
+C:\Repos\Formation\ShiFumi5\ShiFumi5\obj\Debug\net5.0\ShiFumi5.pdb
+C:\Repos\Formation\ShiFumi5\ShiFumi5\obj\Debug\net5.0\ShiFumi5.genruntimeconfig.cache
+C:\Repos\Formation\ShiFumi5\ShiFumi5\obj\Debug\net5.0\ref\ShiFumi5.dll
